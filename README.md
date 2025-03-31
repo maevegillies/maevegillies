@@ -6,3 +6,9 @@ hello my name is maeve
 - in my free time, i like to play video games and make art :)
 
 thanks
+
+<div align="center">
+  <b> "hi" </b>
+  <br />
+
+</div>
