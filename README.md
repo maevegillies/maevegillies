@@ -1,14 +1,14 @@
 <div align="center">
-  <b> hello my name is maeve </b>
+  <b> hello! my name is maeve </b>
   <br />
 <p> 
-- i am a high school junior studying computer science
+- i am a high school junior studying computer science :snake::heart:
   <br />
-- i want to be studying electrical or computer engineering in college
+- i want to be studying electical/computer engineering or CS in college
   <br />
-- i like to learn all about computers, from AI to quantum computing and engineering
+- i like to learn all about computers, from AI -> quantum computing -> engineering
   <br />
-- in my free time, i like to play video games and make art 
+- in my free time, i do lots of technical theater, volunteer, and play video games
   <br />
 </p>
 </div>
@@ -24,6 +24,6 @@
 <br />
 <br />
 
-<p>thanks </p>
+<h4> thanks! </h4>
 
 </div>
